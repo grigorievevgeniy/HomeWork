@@ -1,0 +1,6 @@
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\7. Chess\bin\Debug\_7.Chess.exe.config
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\7. Chess\bin\Debug\_7.Chess.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\7. Chess\bin\Debug\_7.Chess.pdb
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\7. Chess\obj\Debug\07. Chess.csproj.CoreCompileInputs.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\7. Chess\obj\Debug\_7.Chess.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\7. Chess\obj\Debug\_7.Chess.pdb

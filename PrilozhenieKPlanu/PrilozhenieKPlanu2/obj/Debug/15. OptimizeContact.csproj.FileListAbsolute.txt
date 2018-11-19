@@ -1,0 +1,7 @@
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\PrilozhenieKPlanu2\bin\Debug\PrilozhenieKPlanu2.exe.config
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\PrilozhenieKPlanu2\bin\Debug\PrilozhenieKPlanu2.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\PrilozhenieKPlanu2\bin\Debug\PrilozhenieKPlanu2.pdb
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\PrilozhenieKPlanu2\obj\Debug\15. OptimizeContact.csprojAssemblyReference.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\PrilozhenieKPlanu2\obj\Debug\15. OptimizeContact.csproj.CoreCompileInputs.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\PrilozhenieKPlanu2\obj\Debug\PrilozhenieKPlanu2.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\PrilozhenieKPlanu2\obj\Debug\PrilozhenieKPlanu2.pdb

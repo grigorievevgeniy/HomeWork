@@ -1,0 +1,6 @@
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\12. GetElementCount\bin\Debug\_12.GetElementCount.exe.config
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\12. GetElementCount\bin\Debug\_12.GetElementCount.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\12. GetElementCount\bin\Debug\_12.GetElementCount.pdb
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\12. GetElementCount\obj\Debug\12. GetElementCount.csproj.CoreCompileInputs.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\12. GetElementCount\obj\Debug\_12.GetElementCount.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\12. GetElementCount\obj\Debug\_12.GetElementCount.pdb

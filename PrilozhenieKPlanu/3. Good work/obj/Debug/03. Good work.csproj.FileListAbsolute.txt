@@ -1,0 +1,6 @@
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\3. Good work\bin\Debug\_3.Good_work.exe.config
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\3. Good work\bin\Debug\_3.Good_work.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\3. Good work\bin\Debug\_3.Good_work.pdb
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\3. Good work\obj\Debug\03. Good work.csproj.CoreCompileInputs.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\3. Good work\obj\Debug\_3.Good_work.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\3. Good work\obj\Debug\_3.Good_work.pdb

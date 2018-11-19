@@ -1,0 +1,6 @@
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\16. SnovaNeznakomka\bin\Debug\_16.SnovaNeznakomka.exe.config
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\16. SnovaNeznakomka\bin\Debug\_16.SnovaNeznakomka.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\16. SnovaNeznakomka\bin\Debug\_16.SnovaNeznakomka.pdb
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\16. SnovaNeznakomka\obj\Debug\16. SnovaNeznakomka.csproj.CoreCompileInputs.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\16. SnovaNeznakomka\obj\Debug\_16.SnovaNeznakomka.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\16. SnovaNeznakomka\obj\Debug\_16.SnovaNeznakomka.pdb

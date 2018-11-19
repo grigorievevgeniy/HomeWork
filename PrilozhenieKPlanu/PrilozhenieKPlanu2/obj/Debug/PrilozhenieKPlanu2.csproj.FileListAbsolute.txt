@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu2\bin\Debug\PrilozhenieKPlanu2.exe.config
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu2\bin\Debug\PrilozhenieKPlanu2.exe
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu2\bin\Debug\PrilozhenieKPlanu2.pdb
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu2\obj\Debug\PrilozhenieKPlanu2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu2\obj\Debug\PrilozhenieKPlanu2.exe
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu2\obj\Debug\PrilozhenieKPlanu2.pdb

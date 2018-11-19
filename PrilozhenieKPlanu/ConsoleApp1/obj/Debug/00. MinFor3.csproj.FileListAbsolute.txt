@@ -1,0 +1,6 @@
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\ConsoleApp1\obj\Debug\00. MinFor3.csproj.CoreCompileInputs.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

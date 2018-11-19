@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\bin\Debug\PrilozhenieKPlanu.exe.config
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\bin\Debug\PrilozhenieKPlanu.exe
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\bin\Debug\PrilozhenieKPlanu.pdb
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\obj\Debug\PrilozhenieKPlanu.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\obj\Debug\PrilozhenieKPlanu.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\obj\Debug\PrilozhenieKPlanu.exe
+C:\Users\admin\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\obj\Debug\PrilozhenieKPlanu.pdb

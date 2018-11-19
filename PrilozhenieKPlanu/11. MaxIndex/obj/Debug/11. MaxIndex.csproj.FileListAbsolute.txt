@@ -1,0 +1,6 @@
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\11. MaxIndex\bin\Debug\_11.MaxIndex.exe.config
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\11. MaxIndex\bin\Debug\_11.MaxIndex.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\11. MaxIndex\bin\Debug\_11.MaxIndex.pdb
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\11. MaxIndex\obj\Debug\11. MaxIndex.csproj.CoreCompileInputs.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\11. MaxIndex\obj\Debug\_11.MaxIndex.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\11. MaxIndex\obj\Debug\_11.MaxIndex.pdb

@@ -1,0 +1,7 @@
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\13. GetPoweredArray\bin\Debug\_13.GetPoweredArray.exe.config
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\13. GetPoweredArray\bin\Debug\_13.GetPoweredArray.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\13. GetPoweredArray\bin\Debug\_13.GetPoweredArray.pdb
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\13. GetPoweredArray\obj\Debug\13. GetPoweredArray.csprojAssemblyReference.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\13. GetPoweredArray\obj\Debug\13. GetPoweredArray.csproj.CoreCompileInputs.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\13. GetPoweredArray\obj\Debug\_13.GetPoweredArray.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\13. GetPoweredArray\obj\Debug\_13.GetPoweredArray.pdb

@@ -1,0 +1,7 @@
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\CrossCircle\bin\Debug\CrossCircle.exe.config
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\CrossCircle\bin\Debug\CrossCircle.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\CrossCircle\bin\Debug\CrossCircle.pdb
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\CrossCircle\obj\Debug\14. CrossCircle.csprojAssemblyReference.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\CrossCircle\obj\Debug\14. CrossCircle.csproj.CoreCompileInputs.cache
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\CrossCircle\obj\Debug\CrossCircle.exe
+C:\Users\EAGrigorev\source\repos\PrilozhenieKPlanu\PrilozhenieKPlanu\CrossCircle\obj\Debug\CrossCircle.pdb
